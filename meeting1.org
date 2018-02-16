@@ -1,0 +1,24 @@
+#+TITLE: Meeting notes #1
+#+AUTHOR: Kyle Van Meter
+
+* No Mobile Device
+* Native application
+** Utility
+*** CU students
+    CU Here&Now
+    - Google maps, but detailed CU resources (printers, ATM, etc.)
+    - Have updates/suggestions
+    - Colanders: pull/compile events.
+    - Generally: foot work needed.  Ask building managers (what is not being utilized?)
+    THIS IS THE ONE WERE DOING
+*** CU Boulder Ebay
+    - Sell textbooks to replace the textbook buyback.
+** Something Cool
+*** Sports Program
+    - Tournament Organizer (brackets)
+    - Keeps track of stats (manual entry)
+    - Extended
+    - Generalized
+    - GUI is really important! (and that is no fun)
+*** Rendering Engine
+    - I don't know man.  I think it's a cool idea...
