@@ -1,0 +1,19 @@
+#+TITLE: Kanban Board
+#+AUTHOR: Kyle Van Meter
+#+TODO: TODO(t)  WORKING(w) | DONE(d)
+| TODO                           | WORKING                      | DONE                           |
+|--------------------------------+------------------------------+--------------------------------|
+| [[/home/gnuuser/COLLEGE/CSCI3308/group/notes/Meeting-Notes/test.org::Get A Simple Qt Application Built][Get A Simple Qt Application Bu]] | [[/home/gnuuser/COLLEGE/CSCI3308/group/notes/Meeting-Notes/test.org::Finalize Build Setup with CI][Finalize Build Setup with CI]] | [[/home/gnuuser/COLLEGE/CSCI3308/group/notes/Meeting-Notes/test.org::Send Out Github Organization Invites][Send Out Github Organization I]] |
+|                                |                              |                                |
+|                                |                              |                                |
+#+TBLFM: @1$1='(kanban-headers)::@2$1..@>$>='(kanban-zero @# $# "" 'file)
+
+* WORKING Finalize Build Setup with CI
+** On my machine
+ 1) Ran qmake application.pro -spec linux-g++
+ 2) Ran make qmake_all
+ 3) Ran make
+ 4) Ran make clean
+** On TravisCI
+* TODO Get A Simple Qt Application Built
+* DONE Send Out Github Organization Invites
