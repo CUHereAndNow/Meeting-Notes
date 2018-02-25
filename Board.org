@@ -4,8 +4,9 @@
 | TODO                           | WORKING | DONE                           |
 |--------------------------------+---------+--------------------------------|
 | [[/home/gnuuser/COLLEGE/CSCI3308/group/notes/Meeting-Notes/Board.org::Make A Rough Plan For The Project][Make A Rough Plan For The Proj]] |         | [[/home/gnuuser/COLLEGE/CSCI3308/group/notes/Meeting-Notes/Board.org::Finalize Build Setup with CI][Finalize Build Setup with CI]]   |
-|                                |         | [[/home/gnuuser/COLLEGE/CSCI3308/group/notes/Meeting-Notes/Board.org::Get A Simple Qt Application Built][Get A Simple Qt Application Bu]] |
-|                                |         | [[/home/gnuuser/COLLEGE/CSCI3308/group/notes/Meeting-Notes/Board.org::Send Out Github Organization Invites][Send Out Github Organization I]] |
+| [[/home/gnuuser/COLLEGE/CSCI3308/group/notes/Meeting-Notes/Board.org::Get CI Build On Windows][Get CI Build On Windows]]        |         | [[/home/gnuuser/COLLEGE/CSCI3308/group/notes/Meeting-Notes/Board.org::Get A Simple Qt Application Built][Get A Simple Qt Application Bu]] |
+| [[/home/gnuuser/COLLEGE/CSCI3308/group/notes/Meeting-Notes/Board.org::Setup TravisCI To Autodeploy To Github-Release][Setup TravisCI To Autodeploy T]] |         | [[/home/gnuuser/COLLEGE/CSCI3308/group/notes/Meeting-Notes/Board.org::Send Out Github Organization Invites][Send Out Github Organization I]] |
+|                                |         |                                |
 #+TBLFM: @1$1='(kanban-headers)::@2$1..@>$>='(kanban-zero @# $# "" 'file)
 
 * DONE Finalize Build Setup with CI
@@ -21,3 +22,6 @@
   CLOSED: [2018-02-24 Sat 15:31]
 * DONE Send Out Github Organization Invites
 * TODO Make A Rough Plan For The Project
+* TODO Get CI Build On Windows
+  Appveyor?
+* TODO Setup TravisCI To Autodeploy To Github-Release
