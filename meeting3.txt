@@ -1,0 +1,24 @@
+Meeting 3
+March 7th, 2018
+
+Topics Addressed:
+-Milestone 2
+-Front End Development
+-Back End Dev
+-Sprints
+
+Notes:
+-Sprints
+	1. Data Gathering and Front End Design
+	2. Back End Dev
+	3. Integration of Front and Back Ends
+	4. Polish and Debuging
+	5. Presentation and Extra Features
+
+-Trello has been updated with TASKS and DUE DATES. Reference Trello
+ for what you are working on.
+
+-Milestone 2 is nearing completion
+
+-For encryption (Back End Dev) we could use Salted Challenge Response
+ Authentication Method (SCRAM)
