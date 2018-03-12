@@ -1,0 +1,14 @@
+#+TITLE: Meeting notes #2
+#+AUTHOR: Kyle Van Meter
+
+* Stuff on Trello
+  - Create logo
+  - Figure out db
+  - Finish website theme
+
+* Write up on local maps.
+  - Something like mapbox / OSM Layers (can we even use google maps api)
+
+* Front End / Back End 
+  - DB authentication
+    - SCRAM-SHA-1 (since we cannot use https)
