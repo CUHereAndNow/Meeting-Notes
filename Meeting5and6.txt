@@ -1,0 +1,12 @@
+April 24, 2018
+
+
+-Front and Back end integration is in a working state. The website can display information from our databases under their
+ designated building tabs. Users are able to login, add their own singular tag, logout, and still beable to see their single tags.
+
+-An interactive map has been created and may be able to implement some of the functions we wanted when starting. For instance
+ a clickable map that displays the buildings specific resources. Hopefully, within the next week, this map can be implemented.
+
+-Their are only a few bugs that need to be ironed out in our fallback project plan.
+
+-Otherwise, DOING WELL!
